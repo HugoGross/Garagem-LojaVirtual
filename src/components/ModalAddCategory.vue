@@ -1,4 +1,4 @@
-<!-- <script setup>
+<script setup>
 import { reactive, defineEmits } from 'vue';
 import { useCategoryStore } from '@/stores/category';
 
